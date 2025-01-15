@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Kurt&#39;s Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Kurt&#39;s Blog</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ford Ranger Raptor</title>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>All about Ford Ranger Raptor</description>
+    </item>
+    <item>
+      <title>Honda ADV 160</title>
+      <link>//localhost:1313/posts/markdown-syntax.fr/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
+      <description>All about Honda ADV 160</description>
+    </item>
+    <item>
+      <title>Nissan GT-R 2024</title>
+      <link>//localhost:1313/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
+      <description>Read all about Nissan GT-R 2024</description>
+    </item>
+    <item>
+      <title>Bugatti Chiron</title>
+      <link>//localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
+      <description>Read all about Nissan GT-R 2024</description>
+    </item>
+    <item>
+      <title>About us</title>
+      <link>//localhost:1313/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/rich-content/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
