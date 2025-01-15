@@ -57,19 +57,5 @@
       <guid>//localhost:1313/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/markdown-syntax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/markdown-syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/rich-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/rich-content/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
